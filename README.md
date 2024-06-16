@@ -1,4 +1,4 @@
-# Rango Exchange Explorer
+# Martex Explorer in partnership with Rango
 
 Track all transactions on Rango Exchange API using [Rango Explorer](http://explorer.rango.exchange/).
 
