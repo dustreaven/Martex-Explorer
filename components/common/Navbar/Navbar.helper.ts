@@ -22,8 +22,8 @@ export const links: Array<LinkTypes | MenuTypes> = [
     openInNewTab: false,
   },
   {
-    location: 'https://app.rango.exchange',
-    title: 'Rango App',
+    location: 'https://swap.martex.space',
+    title: 'Martex App',
     id: 3,
     type: 'link',
     openInNewTab: true,

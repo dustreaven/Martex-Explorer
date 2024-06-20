@@ -25,7 +25,7 @@ function Error() {
           </div>
           <div className="text-14 md:text-20 w-[80%] text-center mt-10 md:mt-5 text-neutral-800">
             An unexpected error has occurred. If reloading the page does not fix
-            it, please contact Rango support.
+            it, please contact Martex support.
           </div>
           <button
             onClick={() => router.reload()}

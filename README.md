@@ -1,5 +1,6 @@
-# Rango Exchange Explorer
+# Martex Exchange Explorer
 
+docs from rango:
 Track all transactions on Rango Exchange API using [Rango Explorer](http://explorer.rango.exchange/).
 
 [![Next Deployment](https://github.com/rango-exchange/explorer/actions/workflows/next-deployment.yml/badge.svg?branch=next)](https://github.com/rango-exchange/explorer/actions/workflows/next-deployment.yml)
