@@ -17,7 +17,7 @@ function Footer() {
           <LinkButton
             className="mt-35 md:mt-[60px] w-[257px]"
             href="https://app.rango.exchange/">
-            Open App
+            Open Swap
           </LinkButton>
         </div>
       </div>
@@ -29,10 +29,15 @@ function Footer() {
                 About Rango
               </h3>
               <p className="w-full text-12 md:text-16 font-medium leading-[1.5rem] text-neutral-200	">
-                Rango is a cutting-edge routing and aggregation protocol for all
-                cross-chain and on-chain swaps, aggregating bridges and DEXs in
-                crypto world. You can swap native assets like Bitcoin, Ethereum,
-                Matic, ... to each other in a decentralized manner.
+                Martex is a set of decentralized finance products. Martex Space
+                includes cross-platform mobile wallets available for Android and
+                iOS, as well as browser extensions. Martex Swap features a hot
+                wallet and cross-chain swap capabilities, and Martex Wallet is
+                your pocket wallet where you can store your favorite coins
+                safely with Martex. Martex SDK and Martex API are associated
+                with Martex provider solutions, available to anyone looking to
+                build DEX, DAPP, or similar applications based on their
+                requirements.
               </p>
             </div>
             <div className="grid grid-cols-2 md:flex md:w-[50%] md:justify-around mt-40 md:mt-0 md:mb-10">
@@ -72,7 +77,7 @@ function Footer() {
       </div>
 
       <span className="w-full bg-neutral-500 p-2.5 text-center text-10 md:text-16 text-baseForeground md:text-base md:leading-6">
-        Copyright © 2024 Rango Exchange. All rights reserved.
+        Copyright © 2024 Martex Swap & Exchange All rights reserved.
       </span>
     </footer>
   );
